@@ -1,7 +1,7 @@
 # Face Detection of Bahamian Athletes
 <h2>Classification Problem</h2>
 
-![Image of App Overview]()
+![Image of App Overview](https://github.com/antoneev/facedetection/blob/master/images/app-overview.mp4)
 
 I decided to build this program to continue building my knowledge. 
 
@@ -16,11 +16,12 @@ After all images were cropped, in the cropped folder I manually deleted images w
 #### Data Training 
 I used GridSearchCV to tune the parameters. I then got the best estimator which in my case was SVM. You'll notice that my model didn't do very good during training or testing, this is expected as the dataset was very small.
 
-Data Visualization of our SVM Model
-![Image of Data Visualization]()
+Data Visualization of the SVM Model
+![Image of Data Visualization](https://github.com/antoneev/facedetection/blob/master/images/datavisualization.png)
+
 
 #### Backend and Frontend
 I then created a Python Flask model to run my model on and connect it to the front-end using HTML which uses CSS and JS to connect the UI and Flask server. 
 
-![Image of Initial App ]()
-![Image of App Output]()
+![Image of Initial App ](https://github.com/antoneev/facedetection/blob/master/images/app-output.png)
+![Image of App Output](https://github.com/antoneev/facedetection/blob/master/images/app.png)
