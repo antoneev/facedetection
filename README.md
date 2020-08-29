@@ -1,8 +1,6 @@
 # Face Detection of Bahamian Athletes
 <h2>Classification Problem</h2>
 
-![Image of App Overview](https://github.com/antoneev/facedetection/blob/master/images/app-overview.mp4)
-
 I decided to build this program to continue building my knowledge. 
 
 #### Dataset
