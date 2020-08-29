@@ -21,5 +21,5 @@ Data Visualization of the SVM Model
 #### Backend and Frontend
 I then created a Python Flask model to run my model on and connect it to the front-end using HTML which uses CSS and JS to connect the UI and Flask server. 
 
-![Image of Initial App ](https://github.com/antoneev/facedetection/blob/master/images/app-output.png)
-![Image of App Output](https://github.com/antoneev/facedetection/blob/master/images/app.png)
+![Image of Initial App](https://github.com/antoneev/facedetection/blob/master/images/app.png)
+![Image of  App Output ](https://github.com/antoneev/facedetection/blob/master/images/app-output.png)
